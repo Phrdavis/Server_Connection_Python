@@ -1,2 +1,3 @@
 # Server_Connection_Python
-Conexões de Servidor com Python
+
+Testando a aprendendo a conectar em banco de dados utilizando Linguagem Python
